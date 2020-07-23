@@ -1,5 +1,5 @@
 # Legal-Care
 
-Is a Legal, Lawyers Website
+Is a Legal/Lawyers Website
 
 URL -
